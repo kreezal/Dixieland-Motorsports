@@ -10,6 +10,8 @@ margin-top: 56px;
     border-bottom: 5px solid #D2D7D3;
 }
 #logo{
+	max-width: 100%;
+    height: auto;
 	height: 50%;
 	width: 50%;
 	margin-left: -450px;
